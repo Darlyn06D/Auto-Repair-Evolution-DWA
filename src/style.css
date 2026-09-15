@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-dark: #111827;
+  --color-brand-orange: #f97316;
+  --color-brand-orange-dark: #ea580c;
+  --color-surface-soft: #f3f4f6;
+  --color-text-muted: #4b5563;
+  --color-border-soft: #e5e7eb;
+  --font-sans: "Inter", "Segoe UI", sans-serif;
+  --radius-card: 1rem;
+  --radius-button: 0.75rem;
+  --shadow-card: 0 12px 30px rgb(17 24 39 / 0.08);
+  --spacing-section: 5rem;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: white;
+  color: var(--color-brand-dark);
+}

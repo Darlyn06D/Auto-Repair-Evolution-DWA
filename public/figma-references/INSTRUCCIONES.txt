@@ -1,0 +1,7 @@
+Coloca aquí las imágenes exportadas desde Figma con estos nombres:
+
+home-desktop.png
+home-tablet.png
+home-mobile.png
+
+En Figma selecciona cada frame y usa Exportar > PNG > 1x.
